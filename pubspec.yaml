@@ -1,7 +1,7 @@
 name: design_componete
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage:https://github.com/trilokkumawat/design_componete
 
 environment:
   sdk: ^3.8.1
