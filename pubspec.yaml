@@ -1,7 +1,7 @@
 name: design_componete
-description: "A new Flutter package project."
+description: "Reusable design components for Flutter apps."
 version: 0.0.1
-homepage:https://github.com/trilokkumawat/design_componete
+homepage: https://github.com/trilokkumawat/design_componete
 
 environment:
   sdk: ^3.8.1
